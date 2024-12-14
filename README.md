@@ -1,1 +1,1 @@
-# twitter-covid
+# twitter-geo
